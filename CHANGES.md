@@ -1,7 +1,7 @@
 # libpath.Python - Changes <!-- omit in toc -->
 
 
-## 0.0.0 - 14th September 2026
+## 0.0.0.1 - 14th September 2026
 
 * initial project scaffolding;
 * **Python** **2.7** and **3.8+** compatibility;

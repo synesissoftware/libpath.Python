@@ -13,7 +13,7 @@
 
 ## Packaging improvements
 
-* [ ] first PyPI publish must be **0.0.0+**;
+* [ ] first PyPI publish must be **0.0.0.1+**;
 
 
 <!-- ########################### end of file ########################### -->
