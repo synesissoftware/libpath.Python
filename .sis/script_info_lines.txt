@@ -1,0 +1,2 @@
+libpath.Python is a path parsing library for Python
+Copyright (c) 2019-2026, Matthew Wilson and Synesis Information Systems
